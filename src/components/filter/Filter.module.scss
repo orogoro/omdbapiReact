@@ -1,0 +1,46 @@
+@import '../../styles/variables.scss';
+
+.form {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+
+  @media screen and (max-width: $tablet) {
+    // width: $tablet;
+    margin-right: 0;
+    margin-top: 20px;
+  }
+}
+
+.input {
+  font-size: 16px;
+  width: 250px;
+  padding: 8px 10px;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+
+  @media screen and (max-width: $tablet) {
+    width: 300px;
+  }
+}
+
+.button {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 0;
+  right: 0;
+  width: 30px;
+  height: 100%;
+  border: none;
+  border-radius: 0 3px 3px 0;
+  background-color: $lightColor;
+
+  cursor: pointer;
+}
+
+.image {
+  width: 100%;
+}
