@@ -2,7 +2,7 @@ import axios from 'axios';
 
 import { moviesTypes } from '../types';
 
-export const BASEURL = 'http://www.omdbapi.com/';
+export const BASEURL = 'https://www.omdbapi.com/';
 const API_KEY = '?apikey=7e8c7aae';
 
 export const movies = axios.create({
