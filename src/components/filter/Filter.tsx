@@ -33,6 +33,11 @@ const Filter: React.FC = () => {
       toast.error("You didn't enter anything");
       return;
     }
+
+    if (value === currentSearch) {
+      return;
+    }
+
     navigate(`/?query=${value}`);
     dispatch(action.moviesAction([]));
   };
