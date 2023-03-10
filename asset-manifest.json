@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/omdbapiReact/static/css/main.b0006e0a.css",
-    "main.js": "/omdbapiReact/static/js/main.7b26f180.js",
+    "main.js": "/omdbapiReact/static/js/main.c0816f27.js",
     "static/js/460.cc2b877a.chunk.js": "/omdbapiReact/static/js/460.cc2b877a.chunk.js",
     "static/js/785.7917a340.chunk.js": "/omdbapiReact/static/js/785.7917a340.chunk.js",
     "static/media/noMovieFoto.png": "/omdbapiReact/static/media/noMovieFoto.0ec5e1175e550b1fa33f.png",
     "static/media/notFound.png": "/omdbapiReact/static/media/notFound.942f233d27a4a4e7de6f.png",
     "index.html": "/omdbapiReact/index.html",
     "main.b0006e0a.css.map": "/omdbapiReact/static/css/main.b0006e0a.css.map",
-    "main.7b26f180.js.map": "/omdbapiReact/static/js/main.7b26f180.js.map",
+    "main.c0816f27.js.map": "/omdbapiReact/static/js/main.c0816f27.js.map",
     "460.cc2b877a.chunk.js.map": "/omdbapiReact/static/js/460.cc2b877a.chunk.js.map",
     "785.7917a340.chunk.js.map": "/omdbapiReact/static/js/785.7917a340.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0006e0a.css",
-    "static/js/main.7b26f180.js"
+    "static/js/main.c0816f27.js"
   ]
 }
